@@ -1,13 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi There 👋, I'm Saima Zaki</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">A Passionate Front-End Developer</h3>
 <img align="right" width="400px" alt="Coder" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saima2310&label=Profile%20views&color=0e75b6&style=flat" alt="saima2310" /> </p>
 👨🏻‍💻  About Me</br>
 💡  I like to explore new technologies and develop software solutions.</br>
-🎓  I completed my learning from Masai School on full-stack web-development.</br>
+🎓  I have learnt front-end development from YouTube.</br>
 🌱  Still I'm on track for learning more about web-development, UI-design, and Back-end.</br>
 📫 How to reach me **saima.zaki2310@gmail.com**
 
